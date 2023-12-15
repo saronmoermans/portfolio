@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+.landingpage {
+    background-image: url('/images/codingWP.jpg');
+    height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mainpage {
+    
+    height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.whitebalk {
+    height: 50%;
+    background-color: white;
+}
+
+.greybalk {
+    
+    height: 50%;
+    background-color: grey;
+}
+
+.main {
+    height: 100%;
+}
